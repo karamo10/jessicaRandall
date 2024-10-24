@@ -59,21 +59,26 @@ body{
 .social-links{
     width: 100%;
     padding: 15px 0;
-    font-size: 16px;
     background-color: hsl(0, 0%, 20%);
     margin-bottom: 15px;
     border-radius: 12px;
-    font-weight: 700;
     cursor: pointer;
-    /* letter-spacing: 1px; */
 }
-
+.social-links a{
+    font-size: 16px;
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+}
 .social-links:active{
     background-color: hsl(75, 94%, 57%);
     color: black;
 }
 
 @media (max-width: 375px){
+    .container{
+        margin: 0 1rem;
+    }
     .card{
         width: 100%;
     }
