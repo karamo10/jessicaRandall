@@ -1,2 +1,3 @@
-url: 'https://karamo10.github.io/JRsocialprofilelink/'
-baseurl: '/JRsocialprofilelink' # the subpath of your site, e.g. /blog
+url: 'https://karamo10.github.io'
+baseurl: '/JRsocialprofilelink' # The subpath of your site
+title: 'JR Social Profile Link' # Name of your site
