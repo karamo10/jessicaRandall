@@ -1,4 +1,2 @@
-url: ''
-baseurl: '' # the subpath of your site, e.g. /blog
-title: '' # the name of your site, e.g. ACME Corp.
-sass:
+url: 'https://karamo10.github.io/JRsocialprofilelink/'
+baseurl: '/JRsocialprofilelink' # the subpath of your site, e.g. /blog
